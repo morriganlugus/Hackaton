@@ -1,0 +1,21 @@
+Origin City,Destination City,Timestamp of Anomaly,id_anomaly
+"Monterrey, Mexico","Montreal, Canada",2025-07-16 20:44:14,1
+"Chicago, USA","Ottawa, Canada",2025-07-16 20:38:14,2
+"Phoenix, USA","Calgary, Canada",2025-07-16 19:11:14,3
+"Houston, USA","Ottawa, Canada",2025-07-16 19:30:14,4
+"Guadalajara, Mexico","New York, USA",2025-07-16 19:04:14,5
+"Houston, USA","New York, USA",2025-07-16 20:22:14,6
+"Guadalajara, Mexico","Vancouver, Canada",2025-07-16 20:06:14,7
+"Cancún, Mexico","New York, USA",2025-07-16 20:18:14,8
+"Cancún, Mexico","Monterrey, Mexico",2025-07-16 19:38:14,9
+"Tijuana, Mexico","Phoenix, USA",2025-07-16 19:05:14,10
+"New York, USA","Guadalajara, Mexico",2025-07-16 19:53:14,11
+"Ottawa, Canada","Mexico City, Mexico",2025-07-16 19:27:14,12
+"Monterrey, Mexico","Ottawa, Canada",2025-07-16 19:27:14,13
+"Ottawa, Canada","Mexico City, Mexico",2025-07-16 18:54:14,14
+"Tijuana, Mexico","Calgary, Canada",2025-07-16 19:06:14,15
+"Vancouver, Canada","Mexico City, Mexico",2025-07-16 20:10:14,16
+"Calgary, Canada","Mexico City, Mexico",2025-07-16 20:34:14,17
+"Phoenix, USA","Tijuana, Mexico",2025-07-16 19:55:14,18
+"Calgary, Canada","Cancún, Mexico",2025-07-16 19:19:14,19
+"Los Angeles, USA","Houston, USA",2025-07-16 19:15:14,20

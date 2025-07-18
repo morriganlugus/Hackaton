@@ -1,0 +1,33 @@
+{
+    "ConversationLogSchema": {
+        "conversation_id": "string (UUID)",
+        "origin": "string (City or location of origin)",
+        "destination": "string (City or location of destination)",
+        "anomaly_time": "string (HH:MM)",
+        "question": "string (What was asked to the driver)",
+        "answer": "string (Driver's response)"
+    },
+    "RouteInfoSchema": {
+        "id_route": "integer (Route unique ID)",
+        "Origin City": "string (City name)",
+        "Destination City": "string (City name)",
+        "truck_number": "string (Truck identifier)",
+        "driver": "string (Driver's full name)",
+        "departure_time": "string (HH:MM)",
+        "arrival_time": "string (HH:MM)"
+    },
+    "AnomalySchema": {
+        "id_anomaly": "integer (Anomaly unique ID)",
+        "Origin City": "string",
+        "Destination City": "string"
+    },
+    "DriverMessageExtractedInfoSchema": {
+        "cause": "string or null (Why the deviation happened)",
+        "new_route": "array of strings or null (New route points)",
+        "new_eta": "string or null (Format HH:MM)"
+    },
+    "CustomerMessageSchema": {
+        "message": "string (Formal explanation for client including cause, ETA, and route)",
+        "signed_by": "string (Fixed: 'Jose Daniel Alejandro Guzman, IA Engineer')"
+    }
+}

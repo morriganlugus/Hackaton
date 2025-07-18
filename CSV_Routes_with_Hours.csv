@@ -1,0 +1,21 @@
+id_ruta,Origin City,Destination City,truck_number,driver,departure_time,arrival_time
+1,"Monterrey, Mexico","Montreal, Canada",CAM-698,Curva Cruz,17:44,22:44
+2,"Chicago, USA","Ottawa, Canada",CAM-278,Turbo Torres,17:38,19:00
+3,"Phoenix, USA","Calgary, Canada",CAM-582,Rápido Ramírez,17:11,21:11
+4,"Houston, USA","Ottawa, Canada",CAM-304,Rápido Ramírez,17:30,22:30
+5,"Guadalajara, Mexico","New York, USA",CAM-693,Camión Carlos,17:04,20:04
+6,"Houston, USA","New York, USA",CAM-607,Camión Carlos,19:22,21:22
+7,"Guadalajara, Mexico","Vancouver, Canada",CAM-553,Lento López,18:06,21:06
+8,"Cancún, Mexico","New York, USA",CAM-433,Rápido Ramírez,19:18,21:18
+9,"Cancún, Mexico","Monterrey, Mexico",CAM-968,Turbo Torres,18:38,20:38
+10,"Tijuana, Mexico","Phoenix, USA",CAM-802,Tramo Torres,17:05,21:05
+11,"New York, USA","Guadalajara, Mexico",CAM-720,Tramo Torres,16:53,22:53
+12,"Ottawa, Canada","Mexico City, Mexico",CAM-703,Rápido Ramírez,16:27,22:27
+13,"Monterrey, Mexico","Ottawa, Canada",CAM-422,Rápido Ramírez,16:27,21:27
+14,"Ottawa, Canada","Mexico City, Mexico",CAM-965,Camión Carlos,16:27,21:27
+15,"Tijuana, Mexico","Calgary, Canada",CAM-577,Camión Carlos,17:06,22:06
+16,"Vancouver, Canada","Mexico City, Mexico",CAM-321,Rápido Ramírez,17:10,22:10
+17,"Calgary, Canada","Mexico City, Mexico",CAM-629,Camión Carlos,18:34,21:34
+18,"Phoenix, USA","Tijuana, Mexico",CAM-793,Lento López,17:55,22:55
+19,"Calgary, Canada","Cancún, Mexico",CAM-132,Camión Carlos,18:19,20:19
+20,"Los Angeles, USA","Houston, USA",CAM-313,Tramo Torres,18:15,20:15

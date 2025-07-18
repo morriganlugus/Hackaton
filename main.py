@@ -11,10 +11,10 @@ import webbrowser
 import pandas as pd
 
 # ===== CONFIGURATION =====
-OPENROUTESERVICE_API_KEY = "eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6ImMzODBlMWFiNGRjMzQ0NGViMWEyZTIyOTgyYTIyOWFlIiwiaCI6Im11cm11cjY0In0="  # Pega aquí tu API Key de ORS
+OPENROUTESERVICE_API_KEY = "" 
 CSV_FILE = "conversaciones.csv"
 OPENROUTESERVICE_URL = "https://api.openrouteservice.org/v2/directions/driving-car/geojson"
-llm_key = "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"
+llm_key = ""
 llm = ChatOpenAI(api_key=llm_key, model="gpt-4o", temperature=0.7)
 
 # Files with routes and anomalies
